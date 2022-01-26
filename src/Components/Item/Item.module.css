@@ -1,0 +1,28 @@
+.item_wrapper {
+  max-width: 800px;
+  margin: 0px auto 10px auto;
+  padding: 8px;
+  background-color: transparent;
+  border: 2px solid brown;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.item_textContainer {
+}
+
+.item_textContainer__title {
+  font-size: 26px;
+  font-weight: 500;
+  color: black;
+  letter-spacing: 2px;
+  margin-bottom: 8px;
+}
+
+.item_textContainer__body {
+  font-size: 18px;
+  font-weight: 300;
+  color: grey;
+}

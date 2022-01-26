@@ -1,0 +1,12 @@
+.my_button {
+  padding: 2px 10px;
+  background-color: transparent;
+  color: black;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Montserrat';
+  border: 2px solid brown;
+  border-radius: 6px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
