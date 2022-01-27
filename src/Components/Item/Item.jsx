@@ -2,7 +2,7 @@ import React from 'react'
 import MyButton from '../../UI/Buttons/MyButton'
 import classes from './Item.module.css'
 
-const Item = (props, number) => {
+const Item = (props) => {
   return (
     <div className={classes.item_wrapper}>
       <div className={classes.item_textContainer}>
